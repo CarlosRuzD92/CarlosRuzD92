@@ -18,7 +18,7 @@
 
 Soy una persona trabajadora, positiva y comprometida con el aprendizaje continuo, aprovechando mi tiempo libre para reforzar y ampliar mis conocimientos.  
 
-Estoy en constante aprendizaje y mejora, aprovechando todas las oportunidades disponibles, ya sea realizando cursos o practicando con proyectos reales para aplicar lo aprendido.
+Estoy en constante mejora, realizando cursos y practicando con proyectos reales para aplicar lo aprendido.
 
 Actualmente estoy acabando el Ciclo Formativo de Grado Superior en Desarrollo de Aplicaciones Multiplataforma (DAM) en modalidad online (UOC – FP JE), a falta solo de las prácticas de empresa.
 
