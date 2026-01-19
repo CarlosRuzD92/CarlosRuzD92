@@ -2,7 +2,7 @@
 
 🎓 Estudiante de Desarrollo de Aplicaciones Multiplataforma (FP online JE – UOC, finalización prevista en 2026)  
 
-💻 Desarrollador Backend Java en formación, orientado a APIs REST y arquitecturas de microservicios  
+💻 Desarrollador Backend Java 
 
 🌐 Stack actual: Java 21 · Spring Boot 3 · Spring Security (JWT) · MongoDB · Kafka · Docker  
 
