@@ -18,11 +18,9 @@
 
 Soy una persona trabajadora, positiva y comprometida con el aprendizaje continuo, aprovechando mi tiempo libre para reforzar y ampliar mis conocimientos.  
 
-Desde el principio tengo claro que quiero dedicar mi camino profesional al desarrollo backend con Java.
+Estoy en constante aprendizaje y mejora, aprovechando todas las oportunidades disponibles, ya sea realizando cursos o practicando con proyectos reales para aplicar lo aprendido.
 
-Mi objetivo es crecer como desarrollador, enfrentando retos que me permitan aprender, aplicar buenas prácticas y colaborar en equipo.
-
-Actualmente curso el ciclo de DAM en modalidad online (FP JE – UOC) desarrollando proyectos personales y creciendo día tras día.
+Actualmente estoy acabando el Ciclo Formativo de Grado Superior en Desarrollo de Aplicaciones Multiplataforma (DAM) en modalidad online (UOC – FP JE), a falta solo de las prácticas de empresa.
 
 ---
 
