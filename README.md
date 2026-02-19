@@ -41,6 +41,7 @@ Proyecto personal orientado a crear un asistente diario con varios servicios (us
 
 ## 🎓 Cursos
 
+- Cibernarium (Barcelona Activa) – GIT y GITHUB para principiantes (3h).
 - Cibernarium (Barcelona Activa) – Docker para principiantes: Virtualización, Contenedores y Orquestación en la Nube (16h).
 - CIFO La Violeta (SOC) – Procesamiento de datos con Java (220h).  
 - Cibernarium (Barcelona Activa) – Frontend para principiantes: maquetación y creación de páginas web con HTML, CSS y Bootstrap (15h).
