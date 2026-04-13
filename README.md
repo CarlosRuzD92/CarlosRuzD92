@@ -45,7 +45,7 @@ Proyecto desarrollado en PHP con Laravel como parte de una prueba técnica, cent
 - Implementación de funcionalidades de autenticación de usuarios: registro, login, recuperación y cambio de contraseña.
 - Gestión y consulta de productos y categorías.
 - Uso de formularios, vistas Blade y controladores para la interacción entre frontend y backend.
-- Stack: PHP · Laravel · Blade · HTML · CSS · MySQL · Git · GitHub
+- Stack: PHP · Laravel · Blade · HTML · CSS · MySQL · Git · GitHub · Postman
 
 ---
 
