@@ -36,7 +36,17 @@ Proyecto personal orientado a crear un asistente diario con varios servicios (us
 - Mensajería asíncrona con Apache Kafka para alarmas y notificaciones.  
 - Contenerización básica de servicios y dependencias con Docker y Docker Compose.  
 - Stack: Java 21 · Spring Boot 3 · Spring Security (JWT) · MongoDB · Kafka(Zookeeper) · Docker · Docker Compose · Git · GitHub · Postman · JUnit.
-  
+
+### 🛒 FUNKTION3 – Aplicación web en Laravel (prueba técnica)
+
+Proyecto desarrollado en PHP con Laravel como parte de una prueba técnica, centrado en la construcción de un backend con un frontend sencillo en HTML/Blade.
+
+- Desarrollo de la estructura MVC con rutas web y API.
+- Implementación de funcionalidades de autenticación de usuarios: registro, login, recuperación y cambio de contraseña.
+- Gestión y consulta de productos y categorías.
+- Uso de formularios, vistas Blade y controladores para la interacción entre frontend y backend.
+- Stack: PHP · Laravel · Blade · HTML · CSS · MySQL · Git · GitHub
+
 ---
 
 ## 🎓 Cursos
