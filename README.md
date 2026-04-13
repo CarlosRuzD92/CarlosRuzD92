@@ -39,7 +39,7 @@ Proyecto personal orientado a crear un asistente diario con varios servicios (us
 
 ### 🛒 FUNKTION3 – Aplicación web en Laravel (prueba técnica)
 
-Proyecto desarrollado en PHP con Laravel como parte de una prueba técnica, centrado en la construcción de un backend con un frontend sencillo en HTML/Blade.
+Proyecto desarrollado en PHP con Laravel como parte de una prueba técnica, centrado en la construcción de un backend con un frontend sencillo en HTML.
 
 - Desarrollo de la estructura MVC con rutas web y API.
 - Implementación de funcionalidades de autenticación de usuarios: registro, login, recuperación y cambio de contraseña.
@@ -86,6 +86,7 @@ Proyecto desarrollado en PHP con Laravel como parte de una prueba técnica, cent
 ![Apache Kafka](https://img.shields.io/badge/Apache%20Kafka-231F20?style=flat&logo=apache-kafka&logoColor=white)
 ![JUnit](https://img.shields.io/badge/JUnit5-25A162?style=flat&logo=junit5&logoColor=white)
 ![Maven](https://img.shields.io/badge/Apache%20Maven-C71A36?style=flat&logo=apache-maven&logoColor=white)
+![Laravel](https://img.shields.io/badge/Laravel-13-FF2D20)
 
 ---
 
