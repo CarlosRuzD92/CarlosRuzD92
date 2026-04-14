@@ -26,7 +26,7 @@ Actualmente estoy acabando el Ciclo Formativo de Grado Superior en Desarrollo de
 
 ## 💼 Proyectos destacados
 
-### 🧩 Asistente Diario – Ecosistema de microservicios en Java (en desarrollo)
+### 🧩 Asistente Diario – Ecosistema de microservicios en Java
 
 Proyecto personal orientado a crear un asistente diario con varios servicios (usuarios, notas, tareas, notificador, alarma):
 
