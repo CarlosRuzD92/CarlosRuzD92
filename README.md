@@ -53,7 +53,7 @@ Aplicación web con backend en Laravel orientada a la gestión de usuarios, prod
 
 🔗 [Ver proyecto](https://github.com/CarlosRuzD92/funktion3-laravel-catalog-api)
 
-- Desarrollo de API REST con PHP y Laravel para gestión de usuarios, productos y pedidos.  
+- Desarrollo de API REST con PHP y Laravel. 
 - Implementación de funcionalidades de autenticación de usuarios: registro, login, recuperación y cambio de contraseña.
 - Gestión de productos, categorías y búsqueda con filtros.
 - Lógica de pedidos (creación e historial), persistencia en MySQL y validación de endpoints con Postman.
