@@ -38,12 +38,15 @@ Sistema distribuido basado en microservicios independientes.
 - [Alarms Service](https://github.com/CarlosRuzD92/daily-assistant-alarms-service)  
 - [Notifier Service](https://github.com/CarlosRuzD92/daily-assistant-notifier-service)  
 - [Docker Compose](https://github.com/CarlosRuzD92/daily-assistant-compose)
+
   
 - Diseño e implementación de APIs REST con Java y Spring Boot.
 - Autenticación con JWT usando Spring Security.  
 - Persistencia de datos con MongoDB y comunicación asíncrona mediante Kafka.
 - Despliegue con Docker y orquestación con Docker Compose.
 - Validación de endpoints con Postman.
+
+---
 
 ### 🛒 FUNKTION3 – Aplicación web en Laravel
 
