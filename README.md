@@ -46,7 +46,6 @@ Sistema distribuido basado en microservicios independientes.
 - Despliegue con Docker y orquestación con Docker Compose.
 - Validación de endpoints con Postman.
 
----
 
 ### 🛒 FUNKTION3 – Aplicación web en Laravel
 
