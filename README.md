@@ -26,26 +26,22 @@ Actualmente estoy acabando el Ciclo Formativo de Grado Superior en Desarrollo de
 
 ## 💼 Proyectos destacados
 
-### 🧩 Asistente Diario – Ecosistema de microservicios en Java
+### 🧩 Asistente Diario – Backend distribuido con microservicios
 
 Proyecto personal orientado a crear un asistente diario con varios servicios (usuarios, notas, tareas, notificador, alarma):
 
-- Diseño de una arquitectura de microservicios con APIs REST.  
-- Implementación de autenticación y autorización con JWT (HS256) usando Spring Security.  
-- Persistencia con MongoDB (Spring Data MongoDB).  
-- Mensajería asíncrona con Apache Kafka para alarmas y notificaciones.  
-- Contenerización básica de servicios y dependencias con Docker y Docker Compose.  
-- Stack: Java 21 · Spring Boot 3 · Spring Security (JWT) · MongoDB · Kafka(Zookeeper) · Docker · Docker Compose · Git · GitHub · Postman · JUnit.
+- Desarrollo de APIs REST con Java y Spring Boot, incluyendo autenticación con JWT (Spring Security).
+- Persistencia de datos con MongoDB y comunicación asíncrona mediante Kafka.
+- Despliegue en contenedores con Docker y validación de endpoints con Postman.
 
-### 🛒 FUNKTION3 – Aplicación web en Laravel (prueba técnica)
+### 🛒 FUNKTION3 – Aplicación web en Laravel
 
-Proyecto desarrollado en PHP con Laravel como parte de una prueba técnica, centrado en la construcción de un backend con un frontend sencillo en HTML.
+Proyecto desarrollado en PHP con Laravel, centrado en la construcción de un backend con un frontend básico en HTML.
 
 - Desarrollo de la estructura MVC con rutas web y API.
 - Implementación de funcionalidades de autenticación de usuarios: registro, login, recuperación y cambio de contraseña.
-- Gestión y consulta de productos y categorías.
-- Uso de formularios, vistas Blade y controladores para la interacción entre frontend y backend.
-- Stack: PHP · Laravel · Blade · HTML · CSS · MySQL · Git · GitHub · Postman
+- Gestión de productos, categorías y búsqueda con filtros.
+- Persistencia de datos con MySQL y validación de endpoints con Postman. 
 
 ---
 
